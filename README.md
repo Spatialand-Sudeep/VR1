@@ -1,2 +1,2 @@
 # VR1
-First VR repository
+I am figuring out to integrate github with our app for version control
